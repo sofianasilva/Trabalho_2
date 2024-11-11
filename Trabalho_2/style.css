@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: azure;
+}
+
+.container {
+    background-color: azure;
+    width: 960px;
+    margin: auto;
+}
+
+header,
+footer {
+    background-color: silver
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a:hover {
+    color: black
+}
+
+a {
+    text-decoration: none;
+    /*Serve para tirar a linha que fica embaixo do link*/
+}
+
+#imagem {
+    width: 960px;
+}
