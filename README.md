@@ -1,1 +1,1 @@
-# Trabalho_2
+A pagina inicial está no arquivo "trab2a.html"
